@@ -3,6 +3,9 @@
 /// C++ 
 #include <iostream>
 
+void merge(int *, int, int, int);
+void mergeSort(int *, int, int);
+
 void merge(int* arr, int low, int high, int mid)
 {
 	int i, j, k, c[50];
