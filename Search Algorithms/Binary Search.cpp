@@ -1,4 +1,5 @@
 /// Binary Search Algorithm
+/// Remember that in order for the Binary Search to function. The values within the elements must be sorted first!!!
 /// C++ 
 #include <iostream>
 
